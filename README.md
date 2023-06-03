@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">Software developer and architect. Team leader. Enthusiast. Software Craftsman. Clean Code lover.</h3>
 
-- 🔭 I’m currently working on [CasaBuddy](http://wlasnykat.pro:3000/)
+- 🔭 I’m currently working on [CasaBuddy](https://casabuddy.pro/)
 
 - 💬 Ask me about **Domain Driven Design & Node.js**
 
