@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">Software developer and architect. Team leader. Enthusiast. Software Craftsman. Clean Code lover.</h3>
 
-- 🔭 I’m currently working on [Star Guide AI](https://www.starguide.ai/)
+- 🔭 I’m currently working on [Kanso Social](https://www.kanso.social/)
 
 - 💬 Ask me about **Domain Driven Design & Node.js**
 
